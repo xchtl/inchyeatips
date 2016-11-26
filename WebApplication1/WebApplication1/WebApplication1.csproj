@@ -80,6 +80,7 @@
     <Content Include="index.css" />
     <Content Include="index.html" />
     <Content Include="index.js" />
+    <Content Include="beforeStart.png" />
     <Content Include="Web.config" />
     <Content Include="wolf\animation.css" />
     <Content Include="wolf\animation.js" />
