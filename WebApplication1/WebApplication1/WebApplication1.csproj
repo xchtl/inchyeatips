@@ -66,6 +66,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bg.jpg" />
+    <Content Include="mlpcd.ico" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\Inchyeatips.pubxml" />
     <None Include="Web.Debug.config">
@@ -86,7 +88,7 @@
     <Content Include="wolf\animation.js" />
     <Content Include="wolf\animation.min.js" />
     <Content Include="wolf\favicon.ico" />
-    <Content Include="wolf\index.html" />
+    <Content Include="wolf\wolf.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />

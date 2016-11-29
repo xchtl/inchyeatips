@@ -1,6 +1,10 @@
-﻿body {
+﻿#first {
+    color: red;
+    text-align: center;
+    font-size: 100pt;
+    background-image: url('bg.jpg');
 }
 
-#openSource {
-    outline-color:aquamarine;
+#begin {
+    color:aquamarine; 
 }
